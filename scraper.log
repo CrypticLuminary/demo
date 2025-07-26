@@ -1,0 +1,899 @@
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T07:17:34.765286+00:00 UTC
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T07:17:34.765403+00:00 UTC
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Quotes to Scrape
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/ (attempt 1)
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 13:02:34,765 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 13:02:36,435 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 13:02:36,435 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:02:36,436 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 13:02:36,436 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:02:36,609 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/
+2025-07-25 13:02:36,610 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:02:36,612 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/
+2025-07-25 13:02:36,612 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:02:36,913 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:02:36,914 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:02:36,918 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:02:36,918 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:02:37,441 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 13:02:37,767 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 13:02:37,767 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:02:37,768 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 13:02:37,768 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:02:38,618 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/2/ (attempt 1)
+2025-07-25 13:02:38,772 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 13:02:38,773 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 13:02:39,511 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/2/
+2025-07-25 13:02:39,512 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:02:39,515 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/2/
+2025-07-25 13:02:39,515 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:02:39,923 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 13:02:41,164 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:02:41,165 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:02:41,171 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:02:41,171 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:02:41,520 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/3/ (attempt 1)
+2025-07-25 13:02:41,976 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/3/
+2025-07-25 13:02:41,977 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:02:41,978 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/3/
+2025-07-25 13:02:41,978 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:02:43,983 - MultiWebsiteScraper - INFO - ✅ Completed scraping quotes_to_scrape: 30 total items
+2025-07-25 13:02:43,984 - MultiWebsiteScraper - INFO - ✅ Completed quotes_to_scrape
+2025-07-25 13:02:44,176 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 13:02:44,177 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 13:02:44,177 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 13:02:44,181 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_071744.json
+2025-07-25 13:02:44,190 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_quotes_to_scrape_20250725_071744.csv
+2025-07-25 13:02:44,192 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_071744.csv
+2025-07-25 13:02:44,200 - MultiWebsiteScraper - ERROR - ❌ Error saving SQLite: Error binding parameter 6: type 'list' is not supported
+2025-07-25 13:02:44,200 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:02:44,200 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 13:02:44,200 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:02:44,200 - MultiWebsiteScraper - INFO - ⏱️ Duration: 9.44 seconds
+2025-07-25 13:02:44,200 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 13:02:44,201 - MultiWebsiteScraper - INFO - 📊 Total items: 70
+2025-07-25 13:02:44,201 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_071744.json
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T07:32:52.090266+00:00 UTC
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T07:32:52.090386+00:00 UTC
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Quotes to Scrape
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/ (attempt 1)
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 13:17:52,090 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 13:17:53,374 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 13:17:53,375 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:17:53,375 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 13:17:53,375 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:17:53,661 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/
+2025-07-25 13:17:53,663 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:17:53,665 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/
+2025-07-25 13:17:53,665 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:17:54,000 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:17:54,002 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:17:54,009 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:17:54,009 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:17:54,376 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 13:17:55,003 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 13:17:55,003 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:17:55,003 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 13:17:55,003 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:17:55,671 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/2/ (attempt 1)
+2025-07-25 13:17:56,008 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 13:17:56,008 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 13:17:56,425 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/2/
+2025-07-25 13:17:56,426 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:17:56,428 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/2/
+2025-07-25 13:17:56,428 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:17:57,014 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 13:17:58,287 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:17:58,289 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:17:58,295 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:17:58,296 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:17:58,433 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/3/ (attempt 1)
+2025-07-25 13:17:58,787 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/3/
+2025-07-25 13:17:58,787 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:17:58,789 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/3/
+2025-07-25 13:17:58,789 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:18:00,794 - MultiWebsiteScraper - INFO - ✅ Completed scraping quotes_to_scrape: 30 total items
+2025-07-25 13:18:00,796 - MultiWebsiteScraper - INFO - ✅ Completed quotes_to_scrape
+2025-07-25 13:18:01,301 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 13:18:01,301 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 13:18:01,302 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 13:18:01,307 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_073301.json
+2025-07-25 13:18:01,315 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_quotes_to_scrape_20250725_073301.csv
+2025-07-25 13:18:01,318 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_073301.csv
+2025-07-25 13:18:01,331 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_073301.db
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - ⏱️ Duration: 9.24 seconds
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - 📊 Total items: 70
+2025-07-25 13:18:01,332 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_073301.json
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:07:12.535369+00:00 UTC
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:07:12.535509+00:00 UTC
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Quotes to Scrape
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/ (attempt 1)
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 13:52:12,535 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 13:52:12,536 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 13:52:13,809 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 13:52:13,809 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:52:13,809 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 13:52:13,809 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:52:14,014 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/
+2025-07-25 13:52:14,015 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:52:14,017 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/
+2025-07-25 13:52:14,017 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:52:14,221 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:52:14,223 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:52:14,230 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:52:14,230 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:52:14,815 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 13:52:15,514 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 13:52:15,514 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:52:15,515 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 13:52:15,515 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:52:16,022 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/2/ (attempt 1)
+2025-07-25 13:52:16,518 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 13:52:16,518 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 13:52:16,844 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/2/
+2025-07-25 13:52:16,845 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:52:16,846 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/2/
+2025-07-25 13:52:16,846 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:52:17,236 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 13:52:18,174 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:52:18,176 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:52:18,182 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:52:18,182 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:52:18,851 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/3/ (attempt 1)
+2025-07-25 13:52:19,212 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/3/
+2025-07-25 13:52:19,213 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:52:19,215 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/3/
+2025-07-25 13:52:19,215 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:52:21,187 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 13:52:21,188 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 13:52:21,220 - MultiWebsiteScraper - INFO - ✅ Completed scraping quotes_to_scrape: 30 total items
+2025-07-25 13:52:21,220 - MultiWebsiteScraper - INFO - ✅ Completed quotes_to_scrape
+2025-07-25 13:52:21,221 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 13:52:21,224 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_080721.json
+2025-07-25 13:52:21,231 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_080721.csv
+2025-07-25 13:52:21,233 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_quotes_to_scrape_20250725_080721.csv
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_080721.db
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - ⏱️ Duration: 8.71 seconds
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - 📊 Total items: 70
+2025-07-25 13:52:21,245 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_080721.json
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:10:28.366409+00:00 UTC
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:10:28.366541+00:00 UTC
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Quotes to Scrape
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/ (attempt 1)
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 13:55:28,366 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 13:55:28,367 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 13:55:29,689 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/
+2025-07-25 13:55:29,691 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:55:29,693 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/
+2025-07-25 13:55:29,694 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:55:30,071 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:55:30,073 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:55:30,079 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:55:30,079 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:55:31,196 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 13:55:31,196 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:55:31,196 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 13:55:31,197 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:55:31,699 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/2/ (attempt 1)
+2025-07-25 13:55:32,201 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 13:55:32,533 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/2/
+2025-07-25 13:55:32,534 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:55:32,536 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/2/
+2025-07-25 13:55:32,536 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:55:33,044 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 13:55:33,044 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:55:33,045 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 13:55:33,045 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:55:33,084 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 13:55:34,050 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 13:55:34,051 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 13:55:34,196 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:55:34,198 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:55:34,205 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:55:34,205 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:55:34,541 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/3/ (attempt 1)
+2025-07-25 13:55:34,871 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/3/
+2025-07-25 13:55:34,872 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:55:34,874 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/3/
+2025-07-25 13:55:34,874 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:55:36,879 - MultiWebsiteScraper - INFO - ✅ Completed scraping quotes_to_scrape: 30 total items
+2025-07-25 13:55:36,881 - MultiWebsiteScraper - INFO - ✅ Completed quotes_to_scrape
+2025-07-25 13:55:37,210 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 13:55:37,211 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 13:55:37,212 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 13:55:37,217 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_081037.json
+2025-07-25 13:55:37,227 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_quotes_to_scrape_20250725_081037.csv
+2025-07-25 13:55:37,229 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_081037.csv
+2025-07-25 13:55:37,242 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_081037.db
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - ⏱️ Duration: 8.88 seconds
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - 📊 Total items: 70
+2025-07-25 13:55:37,243 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_081037.json
+2025-07-25 13:55:41,627 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:10:41.628029+00:00 UTC
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:10:41.628148+00:00 UTC
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Quotes to Scrape
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/ (attempt 1)
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 13:55:41,628 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 13:55:42,858 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/
+2025-07-25 13:55:42,859 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:55:42,862 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/
+2025-07-25 13:55:42,862 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:55:42,889 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 13:55:42,889 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:55:42,889 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 13:55:42,889 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:55:43,288 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:55:43,290 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:55:43,296 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:55:43,296 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:55:43,894 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 13:55:44,307 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 13:55:44,308 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:55:44,308 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 13:55:44,308 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:55:44,867 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/2/ (attempt 1)
+2025-07-25 13:55:45,313 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 13:55:45,313 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 13:55:45,544 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/2/
+2025-07-25 13:55:45,545 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:55:45,548 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/2/
+2025-07-25 13:55:45,548 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:55:46,297 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 13:55:47,506 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:55:47,508 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:55:47,514 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:55:47,514 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:55:47,552 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://quotes.toscrape.com/page/3/ (attempt 1)
+2025-07-25 13:55:47,876 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://quotes.toscrape.com/page/3/
+2025-07-25 13:55:47,877 - MultiWebsiteScraper - INFO - 📦 Found 10 items in quotes_to_scrape
+2025-07-25 13:55:47,879 - MultiWebsiteScraper - INFO - 📊 Extracted 10 items from https://quotes.toscrape.com/page/3/
+2025-07-25 13:55:47,879 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:55:49,884 - MultiWebsiteScraper - INFO - ✅ Completed scraping quotes_to_scrape: 30 total items
+2025-07-25 13:55:49,885 - MultiWebsiteScraper - INFO - ✅ Completed quotes_to_scrape
+2025-07-25 13:55:50,520 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 13:55:50,520 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 13:55:50,521 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 13:55:50,525 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_081050.json
+2025-07-25 13:55:50,529 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_quotes_to_scrape_20250725_081050.csv
+2025-07-25 13:55:50,531 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_081050.csv
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_081050.db
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - ⏱️ Duration: 8.91 seconds
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - 📊 Total items: 70
+2025-07-25 13:55:50,541 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_081050.json
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:11:22.941440+00:00 UTC
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:11:22.941573+00:00 UTC
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Setopati
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/ (attempt 1)
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 13:56:22,941 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 13:56:22,942 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 13:56:23,012 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://www.setopati.com/
+2025-07-25 13:56:23,013 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://www.setopati.com/
+2025-07-25 13:56:23,013 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:56:24,249 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 13:56:24,249 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:56:24,249 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 13:56:24,249 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:56:24,614 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:56:24,616 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:56:24,623 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 13:56:24,623 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:56:25,018 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/politics (attempt 1)
+2025-07-25 13:56:25,058 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://www.setopati.com/politics
+2025-07-25 13:56:25,059 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://www.setopati.com/politics
+2025-07-25 13:56:25,059 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:56:25,252 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 13:56:25,576 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 13:56:25,576 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 13:56:25,576 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 13:56:25,577 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 13:56:26,582 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 13:56:26,583 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 13:56:27,065 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/society (attempt 1)
+2025-07-25 13:56:27,133 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 1 failed for https://www.setopati.com/society: 404 Client Error: Not Found for url: https://www.setopati.com/society
+2025-07-25 13:56:27,133 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds before retry...
+2025-07-25 13:56:27,628 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 13:56:28,877 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:56:28,879 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 13:56:28,886 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 13:56:28,886 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 13:56:29,138 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/society (attempt 2)
+2025-07-25 13:56:29,156 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 2 failed for https://www.setopati.com/society: 404 Client Error: Not Found for url: https://www.setopati.com/society
+2025-07-25 13:56:29,156 - MultiWebsiteScraper - INFO - ⏳ Waiting 4 seconds before retry...
+2025-07-25 13:56:31,891 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 13:56:31,892 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 13:56:33,161 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/society (attempt 3)
+2025-07-25 13:56:33,176 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 3 failed for https://www.setopati.com/society: 404 Client Error: Not Found for url: https://www.setopati.com/society
+2025-07-25 13:56:33,176 - MultiWebsiteScraper - INFO - ⏳ Waiting 6 seconds before retry...
+2025-07-25 13:56:39,181 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/society (attempt 4)
+2025-07-25 13:56:39,198 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 4 failed for https://www.setopati.com/society: 404 Client Error: Not Found for url: https://www.setopati.com/society
+2025-07-25 13:56:39,198 - MultiWebsiteScraper - ERROR - ❌ All attempts failed for https://www.setopati.com/society
+2025-07-25 13:56:39,198 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:56:41,204 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.setopati.com/opinion (attempt 1)
+2025-07-25 13:56:41,292 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://www.setopati.com/opinion
+2025-07-25 13:56:41,293 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://www.setopati.com/opinion
+2025-07-25 13:56:41,293 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 13:56:43,298 - MultiWebsiteScraper - INFO - ✅ Completed scraping setopati: 3 total items
+2025-07-25 13:56:43,298 - MultiWebsiteScraper - INFO - ✅ Completed setopati
+2025-07-25 13:56:43,299 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 13:56:43,302 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_081143.json
+2025-07-25 13:56:43,311 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_081143.csv
+2025-07-25 13:56:43,313 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_setopati_20250725_081143.csv
+2025-07-25 13:56:43,327 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_081143.db
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - ⏱️ Duration: 20.39 seconds
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - 📊 Total items: 43
+2025-07-25 13:56:43,328 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_081143.json
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:18:45.756311+00:00 UTC
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:18:45.756431+00:00 UTC
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: The Kathmadnu Post
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 14:03:45,756 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 14:03:45,847 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-25 14:03:45,847 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-25 14:03:45,847 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:03:47,241 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 14:03:47,241 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:03:47,241 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 14:03:47,242 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:03:47,849 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/politics (attempt 1)
+2025-07-25 14:03:47,873 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:03:47,888 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:03:47,888 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/politics
+2025-07-25 14:03:47,892 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:03:47,892 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/politics
+2025-07-25 14:03:47,892 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:03:47,892 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:03:48,247 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 14:03:49,063 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 14:03:49,064 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:03:49,064 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 14:03:49,064 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:03:49,898 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/society (attempt 1)
+2025-07-25 14:03:49,982 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/society
+2025-07-25 14:03:49,982 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/society
+2025-07-25 14:03:49,983 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:03:50,069 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 14:03:50,069 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 14:03:50,898 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 14:03:51,988 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/opinion (attempt 1)
+2025-07-25 14:03:52,026 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:03:52,029 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:03:52,035 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:03:52,035 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:03:52,048 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/opinion
+2025-07-25 14:03:52,049 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/opinion
+2025-07-25 14:03:52,049 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:03:54,054 - MultiWebsiteScraper - INFO - ✅ Completed scraping setopati: 4 total items
+2025-07-25 14:03:54,055 - MultiWebsiteScraper - INFO - ✅ Completed setopati
+2025-07-25 14:03:55,041 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 14:03:55,041 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 14:03:55,042 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 14:03:55,046 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_081855.json
+2025-07-25 14:03:55,053 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_setopati_20250725_081855.csv
+2025-07-25 14:03:55,056 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_081855.csv
+2025-07-25 14:03:55,067 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_081855.db
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - ⏱️ Duration: 9.31 seconds
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - 📊 Total items: 44
+2025-07-25 14:03:55,068 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_081855.json
+2025-07-25 14:10:31,468 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:25:31.469237+00:00 UTC
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:25:31.469423+00:00 UTC
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: The Kathmadnu Post
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 14:10:31,469 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 14:10:31,470 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 14:10:31,564 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-25 14:10:31,565 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-25 14:10:31,565 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:10:33,304 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 14:10:33,305 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:10:33,305 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 14:10:33,305 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:10:33,481 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:10:33,483 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:10:33,490 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:10:33,490 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:10:33,566 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/politics (attempt 1)
+2025-07-25 14:10:33,613 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/politics
+2025-07-25 14:10:33,613 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/politics
+2025-07-25 14:10:33,613 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:10:34,310 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 14:10:34,633 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 14:10:34,633 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:10:34,634 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 14:10:34,634 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:10:35,617 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/society (attempt 1)
+2025-07-25 14:10:35,639 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 14:10:35,639 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 14:10:35,656 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/society
+2025-07-25 14:10:35,656 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/society
+2025-07-25 14:10:35,656 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:10:36,496 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 14:10:37,469 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:10:37,471 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:10:37,478 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:10:37,478 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:10:37,661 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/opinion (attempt 1)
+2025-07-25 14:10:37,704 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/opinion
+2025-07-25 14:10:37,704 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/opinion
+2025-07-25 14:10:37,704 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:10:39,709 - MultiWebsiteScraper - INFO - ✅ Completed scraping setopati: 4 total items
+2025-07-25 14:10:39,709 - MultiWebsiteScraper - INFO - ✅ Completed setopati
+2025-07-25 14:10:40,483 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 14:10:40,484 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 14:10:40,485 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 14:10:40,489 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_082540.json
+2025-07-25 14:10:40,497 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_setopati_20250725_082540.csv
+2025-07-25 14:10:40,500 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_082540.csv
+2025-07-25 14:10:40,513 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_082540.db
+2025-07-25 14:10:40,513 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:10:40,513 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 14:10:40,514 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:10:40,514 - MultiWebsiteScraper - INFO - ⏱️ Duration: 9.04 seconds
+2025-07-25 14:10:40,514 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 14:10:40,514 - MultiWebsiteScraper - INFO - 📊 Total items: 44
+2025-07-25 14:10:40,514 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_082540.json
+2025-07-25 14:14:43,996 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:29:43.997206+00:00 UTC
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:29:43.997336+00:00 UTC
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Politics
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/politics (attempt 1)
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 14:14:43,997 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 14:14:44,066 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/politics
+2025-07-25 14:14:44,066 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/politics
+2025-07-25 14:14:44,066 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:14:45,702 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 14:14:45,703 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:14:45,703 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 14:14:45,704 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:14:45,918 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:14:45,920 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:14:45,926 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:14:45,926 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:14:46,072 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_politics: 1 total items
+2025-07-25 14:14:46,072 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_politics
+2025-07-25 14:14:46,709 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 14:14:47,605 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 14:14:47,606 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:14:47,606 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 14:14:47,606 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:14:48,611 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 14:14:48,612 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 14:14:48,932 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 14:14:50,008 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:14:50,010 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:14:50,017 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:14:50,017 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:14:53,022 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 14:14:53,023 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 14:14:53,024 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 14:14:53,027 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_082953.json
+2025-07-25 14:14:53,040 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_politics_20250725_082953.csv
+2025-07-25 14:14:53,042 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_082953.csv
+2025-07-25 14:14:53,052 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_082953.db
+2025-07-25 14:14:53,053 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:14:53,053 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 14:14:53,054 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:14:53,054 - MultiWebsiteScraper - INFO - ⏱️ Duration: 9.06 seconds
+2025-07-25 14:14:53,054 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 14:14:53,054 - MultiWebsiteScraper - INFO - 📊 Total items: 41
+2025-07-25 14:14:53,054 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_082953.json
+2025-07-25 14:24:32,835 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:39:32.836303+00:00 UTC
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:39:32.836442+00:00 UTC
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post - Politics
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/politics (attempt 1)
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 14:24:32,836 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 14:24:33,120 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/politics
+2025-07-25 14:24:33,124 - MultiWebsiteScraper - INFO - 📦 Found 0 items in kathmandupost_politics
+2025-07-25 14:24:33,124 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://kathmandupost.com/politics
+2025-07-25 14:24:33,124 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:24:34,322 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 14:24:34,322 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:24:34,323 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 14:24:34,323 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:24:34,642 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:24:34,643 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:24:34,649 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:24:34,649 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:24:35,129 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_politics: 0 total items
+2025-07-25 14:24:35,130 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_politics
+2025-07-25 14:24:35,328 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 14:24:36,379 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 14:24:36,379 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:24:36,379 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 14:24:36,380 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:24:37,385 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 14:24:37,386 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 14:24:37,655 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 14:24:38,648 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:24:38,650 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:24:38,655 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:24:38,655 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:24:41,661 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 14:24:41,661 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 14:24:41,662 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 14:24:41,666 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_083941.json
+2025-07-25 14:24:41,680 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_083941.csv
+2025-07-25 14:24:41,687 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_083941.db
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - ⏱️ Duration: 8.85 seconds
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - 📊 Total items: 40
+2025-07-25 14:24:41,688 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_083941.json
+2025-07-25 14:32:51,501 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T08:47:51.502148+00:00 UTC
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T08:47:51.502269+00:00 UTC
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 3 websites with 5 workers
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post - Politics
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Books to Scrape
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/politics (attempt 1)
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: HTTPBin Test
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-1.html (attempt 1)
+2025-07-25 14:32:51,502 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/json (attempt 1)
+2025-07-25 14:32:51,577 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/politics
+2025-07-25 14:32:51,579 - MultiWebsiteScraper - INFO - 📦 Found 0 items in kathmandupost_politics
+2025-07-25 14:32:51,579 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://kathmandupost.com/politics
+2025-07-25 14:32:51,579 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:32:53,542 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:32:53,544 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:32:53,548 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-1.html
+2025-07-25 14:32:53,548 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:32:53,582 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_politics: 0 total items
+2025-07-25 14:32:53,584 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_politics
+2025-07-25 14:32:54,223 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/json
+2025-07-25 14:32:54,223 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:32:54,223 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/json
+2025-07-25 14:32:54,224 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:32:55,228 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://httpbin.org/headers (attempt 1)
+2025-07-25 14:32:56,177 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://httpbin.org/headers
+2025-07-25 14:32:56,177 - MultiWebsiteScraper - INFO - 📦 Found 0 items in httpbin_test
+2025-07-25 14:32:56,177 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://httpbin.org/headers
+2025-07-25 14:32:56,177 - MultiWebsiteScraper - INFO - ⏳ Waiting 1 seconds...
+2025-07-25 14:32:56,551 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2025-07-25 14:32:57,179 - MultiWebsiteScraper - INFO - ✅ Completed scraping httpbin_test: 0 total items
+2025-07-25 14:32:57,181 - MultiWebsiteScraper - INFO - ✅ Completed httpbin_test
+2025-07-25 14:32:57,834 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:32:57,836 - MultiWebsiteScraper - INFO - 📦 Found 20 items in books_to_scrape
+2025-07-25 14:32:57,842 - MultiWebsiteScraper - INFO - 📊 Extracted 20 items from https://books.toscrape.com/catalogue/page-2.html
+2025-07-25 14:32:57,842 - MultiWebsiteScraper - INFO - ⏳ Waiting 3 seconds...
+2025-07-25 14:33:00,846 - MultiWebsiteScraper - INFO - ✅ Completed scraping books_to_scrape: 40 total items
+2025-07-25 14:33:00,847 - MultiWebsiteScraper - INFO - ✅ Completed books_to_scrape
+2025-07-25 14:33:00,847 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 14:33:00,852 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_084800.json
+2025-07-25 14:33:00,866 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_books_to_scrape_20250725_084800.csv
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_084800.db
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - ⏱️ Duration: 9.37 seconds
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 3
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - 📊 Total items: 40
+2025-07-25 14:33:00,875 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_084800.json
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T09:14:20.802257+00:00 UTC
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T09:14:20.802378+00:00 UTC
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post - Politics
+2025-07-25 14:59:20,802 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/politics (attempt 1)
+2025-07-25 14:59:21,859 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/politics
+2025-07-25 14:59:21,864 - MultiWebsiteScraper - INFO - 📦 Found 0 items in kathmandupost_politics
+2025-07-25 14:59:21,864 - MultiWebsiteScraper - INFO - 📊 Extracted 0 items from https://kathmandupost.com/politics
+2025-07-25 14:59:21,864 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 14:59:23,869 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_politics: 0 total items
+2025-07-25 14:59:23,869 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_politics
+2025-07-25 14:59:23,870 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 14:59:23,870 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_091423.json
+2025-07-25 14:59:23,872 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_091423.db
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - ⏱️ Duration: 3.07 seconds
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - 📊 Total items: 0
+2025-07-25 14:59:23,873 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_091423.json
+2025-07-25 15:13:30,830 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 15:13:30,830 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T09:28:30.830904+00:00 UTC
+2025-07-25 15:13:30,830 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:13:30,830 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 15:13:30,831 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:13:30,831 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 15:13:30,831 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T09:28:30.831036+00:00 UTC
+2025-07-25 15:13:30,831 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-25 15:13:30,831 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Routine of Nepal Banda
+2025-07-25 15:13:30,831 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.ronbpost.com/politics (attempt 1)
+2025-07-25 15:13:31,954 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 1 failed for https://www.ronbpost.com/politics: 404 Client Error: Not Found for url: https://www.ronbpost.com/politics
+2025-07-25 15:13:31,955 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds before retry...
+2025-07-25 15:13:33,960 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.ronbpost.com/politics (attempt 2)
+2025-07-25 15:13:34,141 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 2 failed for https://www.ronbpost.com/politics: 404 Client Error: Not Found for url: https://www.ronbpost.com/politics
+2025-07-25 15:13:34,141 - MultiWebsiteScraper - INFO - ⏳ Waiting 4 seconds before retry...
+2025-07-25 15:13:38,146 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.ronbpost.com/politics (attempt 3)
+2025-07-25 15:13:38,313 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 3 failed for https://www.ronbpost.com/politics: 404 Client Error: Not Found for url: https://www.ronbpost.com/politics
+2025-07-25 15:13:38,313 - MultiWebsiteScraper - INFO - ⏳ Waiting 6 seconds before retry...
+2025-07-25 15:13:44,319 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://www.ronbpost.com/politics (attempt 4)
+2025-07-25 15:13:44,506 - MultiWebsiteScraper - WARNING - ⚠️ Attempt 4 failed for https://www.ronbpost.com/politics: 404 Client Error: Not Found for url: https://www.ronbpost.com/politics
+2025-07-25 15:13:44,506 - MultiWebsiteScraper - ERROR - ❌ All attempts failed for https://www.ronbpost.com/politics
+2025-07-25 15:13:44,506 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 15:13:46,508 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_politics: 0 total items
+2025-07-25 15:13:46,509 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_politics
+2025-07-25 15:13:46,510 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 15:13:46,513 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_092846.json
+2025-07-25 15:13:46,517 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_092846.db
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - ⏱️ Duration: 15.69 seconds
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - 📊 Total items: 0
+2025-07-25 15:13:46,518 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_092846.json
+2025-07-25 15:16:25,915 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 15:16:25,915 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T09:31:25.915941+00:00 UTC
+2025-07-25 15:16:25,915 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T09:31:25.916060+00:00 UTC
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Home
+2025-07-25 15:16:25,916 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-25 15:16:26,011 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-25 15:16:26,011 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-25 15:16:26,011 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 15:16:28,016 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_home: 1 total items
+2025-07-25 15:16:28,017 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_home
+2025-07-25 15:16:28,018 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 15:16:28,020 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_093128.json
+2025-07-25 15:16:28,028 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_home_20250725_093128.csv
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_093128.db
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - ⏱️ Duration: 2.12 seconds
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - 📊 Total items: 1
+2025-07-25 15:16:28,037 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_093128.json
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T11:58:19.732536+00:00 UTC
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T11:58:19.732657+00:00 UTC
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Home
+2025-07-25 17:43:19,732 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-25 17:43:19,833 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-25 17:43:19,834 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-25 17:43:19,834 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 17:43:21,839 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_home: 1 total items
+2025-07-25 17:43:21,839 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_home
+2025-07-25 17:43:21,840 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 17:43:21,842 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_115821.json
+2025-07-25 17:43:21,850 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_home_20250725_115821.csv
+2025-07-25 17:43:21,858 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_115821.db
+2025-07-25 17:43:21,858 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 17:43:21,858 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 17:43:21,859 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 17:43:21,859 - MultiWebsiteScraper - INFO - ⏱️ Duration: 2.13 seconds
+2025-07-25 17:43:21,859 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-25 17:43:21,859 - MultiWebsiteScraper - INFO - 📊 Total items: 1
+2025-07-25 17:43:21,859 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_115821.json
+2025-07-25 19:00:42,911 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T13:15:42.913165+00:00 UTC
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T13:15:42.913304+00:00 UTC
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Home
+2025-07-25 19:00:42,913 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-25 19:00:43,000 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-25 19:00:43,000 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-25 19:00:43,000 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-25 19:00:45,006 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_home: 1 total items
+2025-07-25 19:00:45,006 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_home
+2025-07-25 19:00:45,006 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-25 19:00:45,007 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_131545.json
+2025-07-25 19:00:45,013 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_home_20250725_131545.csv
+2025-07-25 19:00:45,022 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_131545.db
+2025-07-25 19:00:45,022 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 19:00:45,022 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-25 19:00:45,022 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-25 19:00:45,022 - MultiWebsiteScraper - INFO - ⏱️ Duration: 2.11 seconds
+2025-07-25 19:00:45,022 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-25 19:00:45,023 - MultiWebsiteScraper - INFO - 📊 Total items: 1
+2025-07-25 19:00:45,023 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_131545.json
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T18:18:57.739858+00:00 UTC
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T18:18:57.739976+00:00 UTC
+2025-07-26 00:03:57,739 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-26 00:03:57,740 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Home
+2025-07-26 00:03:57,740 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-26 00:03:57,970 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-26 00:03:57,970 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-26 00:03:57,970 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-26 00:03:59,976 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_home: 1 total items
+2025-07-26 00:03:59,976 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_home
+2025-07-26 00:03:59,977 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-26 00:03:59,979 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_181859.json
+2025-07-26 00:03:59,987 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_home_20250725_181859.csv
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_181859.db
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - ⏱️ Duration: 2.26 seconds
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - 📊 Total items: 1
+2025-07-26 00:03:59,998 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_181859.json
+2025-07-26 00:04:19,242 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-25T18:19:19.243017+00:00 UTC
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-25T18:19:19.243156+00:00 UTC
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Home
+2025-07-26 00:04:19,243 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-26 00:04:19,321 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-26 00:04:19,321 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-26 00:04:19,322 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-26 00:04:21,327 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_home: 1 total items
+2025-07-26 00:04:21,328 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_home
+2025-07-26 00:04:21,328 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-26 00:04:21,330 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250725_181921.json
+2025-07-26 00:04:21,338 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_home_20250725_181921.csv
+2025-07-26 00:04:21,347 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250725_181921.db
+2025-07-26 00:04:21,347 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:04:21,347 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-26 00:04:21,347 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 00:04:21,347 - MultiWebsiteScraper - INFO - ⏱️ Duration: 2.10 seconds
+2025-07-26 00:04:21,347 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-26 00:04:21,348 - MultiWebsiteScraper - INFO - 📊 Total items: 1
+2025-07-26 00:04:21,348 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250725_181921.json
+2025-07-26 08:35:03,003 - MultiWebsiteScraper - INFO - 🚀 Multi-Website Scraper initialized
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - ⏰ Started at: 2025-07-26T02:50:03.004146+00:00 UTC
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - 🕷️ MULTI-WEBSITE SCRAPER STARTING
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - 👤 User: CrypticLuminary
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - ⏰ Start Time: 2025-07-26T02:50:03.004269+00:00 UTC
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - 🚀 Starting to scrape 1 websites with 5 workers
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - 🎯 Starting to scrape: Kathmandu Post Home
+2025-07-26 08:35:03,004 - MultiWebsiteScraper - INFO - 🌐 Fetching: https://kathmandupost.com/ (attempt 1)
+2025-07-26 08:35:03,514 - MultiWebsiteScraper - INFO - ✅ Successfully fetched and parsed: https://kathmandupost.com/
+2025-07-26 08:35:03,515 - MultiWebsiteScraper - INFO - 📊 Extracted 1 items from https://kathmandupost.com/
+2025-07-26 08:35:03,515 - MultiWebsiteScraper - INFO - ⏳ Waiting 2 seconds...
+2025-07-26 08:35:05,520 - MultiWebsiteScraper - INFO - ✅ Completed scraping kathmandupost_home: 1 total items
+2025-07-26 08:35:05,521 - MultiWebsiteScraper - INFO - ✅ Completed kathmandupost_home
+2025-07-26 08:35:05,521 - MultiWebsiteScraper - INFO - 💾 Saving data in formats: ['json', 'csv', 'sqlite']
+2025-07-26 08:35:05,522 - MultiWebsiteScraper - INFO - 💾 Saved JSON: scraped_data/scraped_data_20250726_025005.json
+2025-07-26 08:35:05,530 - MultiWebsiteScraper - INFO - 💾 Saved CSV: scraped_data/scraped_kathmandupost_home_20250726_025005.csv
+2025-07-26 08:35:05,539 - MultiWebsiteScraper - INFO - 💾 Saved SQLite: scraped_data/scraped_data_20250726_025005.db
+2025-07-26 08:35:05,540 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 08:35:05,540 - MultiWebsiteScraper - INFO - 🎉 SCRAPING COMPLETED SUCCESSFULLY!
+2025-07-26 08:35:05,540 - MultiWebsiteScraper - INFO - ============================================================
+2025-07-26 08:35:05,540 - MultiWebsiteScraper - INFO - ⏱️ Duration: 2.54 seconds
+2025-07-26 08:35:05,541 - MultiWebsiteScraper - INFO - 🌐 Websites scraped: 1
+2025-07-26 08:35:05,541 - MultiWebsiteScraper - INFO - 📊 Total items: 1
+2025-07-26 08:35:05,541 - MultiWebsiteScraper - INFO - 📋 Report saved: scraped_data/scraping_report_20250726_025005.json

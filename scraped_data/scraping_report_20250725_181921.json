@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-07-25T18:19:21.347336+00:00Z",
+  "user": "CrypticLuminary",
+  "total_websites": 1,
+  "websites": {
+    "kathmandupost_home": {
+      "items_scraped": 1,
+      "status": "success"
+    }
+  },
+  "total_items": 1
+}

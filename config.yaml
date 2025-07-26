@@ -1,0 +1,71 @@
+scraper:
+  # Global Settings
+  max_workers: 5
+  default_delay: 2
+  timeout: 30
+  retries: 3
+  respect_robots_txt: true
+
+  # User Agent Rotation
+  user_agents:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+# Website Configurations
+websites:
+  kathmandupost_home:
+    name: "Kathmandu Post Home"
+    base_url: "https://kathmandupost.com"
+    pages:
+      - "/"
+    selectors:
+      article_container: "article"
+      headline: "h2 a, h3 a"
+      summary: "p"
+      link: "h2 a, h3 a"
+      image: ".img-wrap img"
+    delay: 2
+    enabled: true
+
+  # books_to_scrape:
+  #   name: "Books to Scrape"
+  #   base_url: "https://books.toscrape.com"
+  #   pages:
+  #     - "/catalogue/page-1.html"
+  #     - "/catalogue/page-2.html"
+  #   selectors:
+  #     book_container: "article.product_pod"
+  #     title: "h3 a"
+  #     price: "p.price_color"
+  #     rating: "p.star-rating"
+  #     availability: "p.instock"
+  #   delay: 3
+  #   enabled: true
+
+  # httpbin_test:
+  #   name: "HTTPBin Test"
+  #   base_url: "https://httpbin.org"
+  #   pages:
+  #     - "/json"
+  #     - "/headers"
+  #   selectors:
+  #     data_container: "pre"
+  #   delay: 1
+  #   enabled: true
+
+# Data Storage Configuration
+storage:
+  formats:
+    - "json"
+    - "csv"
+    - "sqlite"
+  output_directory: "scraped_data"
+  filename_format: "scraped_{website}_{timestamp}"
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "scraper.log"
+  console: true
